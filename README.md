@@ -1,4 +1,11 @@
+![Markdown](https://64.media.tumblr.com/7a56d4228c0a5068ac9235b0108ef571/2911c5743df36121-8a/s2048x3072/1f06f42633440482ae586e634ee264cb8af25fee.png)
+
 ### Hi there 👋
+
+<center>
+  <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilherme-vaz&hide=html&layout=compact&theme=buefy" /></td>
+</center>  
+
 
 <!--
 **guilherme-vaz/guilherme-vaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
