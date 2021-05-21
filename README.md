@@ -5,7 +5,7 @@
 </center>  
 
 ### Olá, bem vindo (a) 👋
-<p>Sou graduado em Ciência da Computação e a primeira vista a área de front-end me chamou atenção, o que me levou a aprofundar meus conhecimentos e criar diversos sites como hobby. Recentemente tive a oportunidade de trabalhar na área como freelancer. Além disso me interesso muito, e já comecei a aprofundar, meus estudos sobre ciência de dados. <br> Gosto muito de ler 📚, jogar 🎮, comer 🍲 e viajar ✈️</p>
+<p>Sou graduado em Ciência da Computação e a primeira vista a área de front-end me chamou atenção, o que me levou a aprofundar meus conhecimentos e criar diversos sites como hobby. Recentemente tive a oportunidade de trabalhar na área como freelancer. também tenho interesse em ciência de dados. <br> Gosto muito de ler 📚, jogar 🎮, comer 🍲 e viajar ✈️</p>
 
 ### Algumas das minhas formações 🎲
   ----------------
