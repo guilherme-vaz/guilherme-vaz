@@ -2,10 +2,11 @@
 
 <center>
   <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilherme-vaz&hide=html&layout=compact&theme=tokyonight" /></td>
-</center>  
+</center> 
 
 ### Olá, bem vindo (a) 👋
 <p>Sou graduado em Ciência da Computação e a primeira vista a área de front-end me chamou atenção, o que me levou a aprofundar meus conhecimentos e criar diversos sites como hobby. Recentemente tive a oportunidade de trabalhar na área como freelancer. Também tenho interesse em ciência de dados. <br> Gosto muito de ler 📚, jogar 🎮, comer 🍲 e viajar ✈️</p>
+<p/><br>
 
 ### Algumas das minhas formações 🎲
   ----------------
