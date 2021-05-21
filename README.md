@@ -1,4 +1,4 @@
-![Markdown](https://64.media.tumblr.com/7a56d4228c0a5068ac9235b0108ef571/2911c5743df36121-8a/s2048x3072/1f06f42633440482ae586e634ee264cb8af25fee.png)
+![Markdown](https://64.media.tumblr.com/9fd76e7178d62112b509e4a502ce6754/593c8660fec30d1a-2a/s2048x3072/02fd1187253e0618bae93f0b1187c04aa93933b3.png)
 
 <center>
   <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilherme-vaz&hide=html&layout=compact&theme=tokyonight" /></td>
