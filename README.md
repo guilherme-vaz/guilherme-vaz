@@ -4,23 +4,35 @@
   <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilherme-vaz&hide=html&layout=compact&theme=tokyonight" /></td>
 </center>-->
 
-### Olá, bem vindo (a) 👋
-<p>Sou graduado em Ciência da Computação e a primeira vista a área de front-end me chamou atenção, o que me levou a aprofundar meus conhecimentos e criar diversos sites como hobby. Recentemente tive a oportunidade de trabalhar na área como freelancer. Também tenho interesse em ciência de dados. 
-</p>
-Gosto muito de ler 📚, jogar 🎮, comer 🍲 e viajar ✈️
-<p/><br>
+### Hello, welcome 👋
+* ⚡ My name is Guilherme, I'm a 24y front-end student.
+* 😄 My pronouns are he/him.
+* 🌱 Currently learning Vue and Nuxt.js
+* 🔭 I'm interested in UX/UI and motion design. 
+* 🚀 You can acess my design portfolio [here](https://www.behance.net/guilherme-vaz).
+* 📫 You can reach me at: <guilhermeolivaaz@gmail.com>.
 
-### Alguns curso e formações 🎲
-  ----------------
-- Bacharelado em Ciência da Computação (UFAL)
+ ----------------
+
+### 🎯 Education, licenses and certificates
+- Bachelor's degree in Computer Science - _Universidade Federal de Alagoas (2016 - 2021)._
 - <a href="https://drive.google.com/file/d/1vMTdiwptJ01e0HnSgppTQK79xQkpPE2v/view" target="_blank">Designthon - Design thinking hackathon</a>
 - <a href="https://drive.google.com/file/d/1g8kWw3Kp2zVBz74md7KD4B5T6dorvdZK/view" target="_blank">UX/UI Basic Experiences</a>
 - <a href="https://drive.google.com/file/d/1o_XfjGi8g0BtGR4FpA06Au1jUc0pNOXo/view" target="_blank">The Web Developer Bootcamp (Udemy)</a>
-- <a href="https://www.udemy.com/certificate/UC-f642001e-29ca-458a-b684-aa4bbb033080/" target="_blank">Bootcamp Desenvolvedor Front End (IGTI)</a>
+- <a href="https://www.udemy.com/certificate/UC-f642001e-29ca-458a-b684-aa4bbb033080/" target="_blank">FrontEnd developer bootcamp (IGTI)</a>
 
 ###   
   ----------------
-![](https://komarev.com/ghpvc/?username=guilherme-vaz&color=red)
+<div style="display: inline_block">
+  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Vue" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <p></p></br>
+  <img src="https://komarev.com/ghpvc/?username=guilherme-vaz&color=red" />
+</div>
 
 <!--
 **guilherme-vaz/guilherme-vaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
