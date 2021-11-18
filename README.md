@@ -6,7 +6,6 @@
 
 ### Hello, welcome 👋
 * ⚡ My name is Guilherme, I'm a 24y front-end student.
-* 😄 My pronouns are he/him.
 * 🌱 Currently learning Vue and Nuxt.js
 * 🔭 Interested in UX/UI and motion design. 
 * 🚀 You can acess my design portfolio [here](https://www.behance.net/guilherme-vaz).
