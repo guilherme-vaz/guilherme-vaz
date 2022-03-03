@@ -6,7 +6,7 @@
 
 ### Hello, welcome 👋
 * ⚡ My name is Guilherme, I'm a 25y fullstack student.
-* 🌱 Currently learning Adonis.js
+* 🌱 Currently learning Adonis.js and AWS Services
 * 🔭 Interested in UX/UI and motion design. 
 * 🚀 You can acess my design portfolio [here](https://www.behance.net/guilherme-vaz).
 * 📫 You can reach me at: <guilhermeolivaaz@gmail.com>.
