@@ -31,7 +31,6 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <p></p></br>
-  <img src="https://komarev.com/ghpvc/?username=guilherme-vaz&color=red" />
 </div>
 
 <!--
