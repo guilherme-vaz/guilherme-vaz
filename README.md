@@ -5,10 +5,9 @@
 </center>-->
 
 ### Hello, welcome 👋
-* ⚡ I'm a 25y fullstack student.
-* 🌱 Currently learning Adonis.js and AWS Services
-* 🔭 Interested in UX/UI and motion design. 
-* 🚀 You can acess my design portfolio [here](https://www.behance.net/guilherme-vaz).
+* ⚡ I'm a 25y UX Designer.
+* 🌱 Currently learning React.js.
+* 🚀 You can acess my design portfolio [here](https://guilhermeoliveiras.com/).
 * 📫 You can reach me at: <guilhermeolivaaz@gmail.com>.
 
  ----------------
@@ -19,14 +18,13 @@
 - <a href="https://drive.google.com/file/d/1g8kWw3Kp2zVBz74md7KD4B5T6dorvdZK/view" target="_blank">UX/UI Basic Experiences</a>
 - <a href="https://drive.google.com/file/d/1o_XfjGi8g0BtGR4FpA06Au1jUc0pNOXo/view" target="_blank">The Web Developer Bootcamp (Udemy)</a>
 - <a href="https://www.udemy.com/certificate/UC-f642001e-29ca-458a-b684-aa4bbb033080/" target="_blank">FrontEnd Developer bootcamp (IGTI)</a>
-- Bootcamp FullStack (Cataline) -  _On going._
 
 ###   
   ----------------
 <div style="display: inline_block">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Vue" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
+  <img align="center" alt="Vue" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/reactjs/reactjs-original.svg" />
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
