@@ -5,7 +5,7 @@
 </center>-->
 
 ### Olá, bem-vindo 👋
-* ⚡ Atualmente trabalhando com UX Design.
+* ⚡ UX Designer.
 * 🌱 Atualmente estudando React e AWS.
 * 📫 Contato no email: <guilhermeolivaaz@gmail.com>.
 
