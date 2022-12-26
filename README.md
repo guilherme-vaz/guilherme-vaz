@@ -4,17 +4,15 @@
   <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilherme-vaz&hide=html&layout=compact&theme=tokyonight" /></td>
 </center>-->
 
-### Hello, welcome 👋
-* ⚡ I'm a 25y UX Designer.
-* 🌱 Currently learning React.js.
-* 🚀 You can acess my design portfolio [here](https://guilhermeoliveiras.com/).
-* 📫 You can reach me at: <guilhermeolivaaz@gmail.com>.
+### Olá, bem-vindo 👋
+* ⚡ Atualmente trabalhando com UX Design.
+* 🌱 Atualmente estudando React e AWS.
+* 📫 Contato no email: <guilhermeolivaaz@gmail.com>.
 
  ----------------
 
-### 🎯 Education, licenses and certificates
-- Bachelor's degree in Computer Science - _Universidade Federal de Alagoas (2016 - 2021)._
-- <a href="https://drive.google.com/file/d/1vMTdiwptJ01e0HnSgppTQK79xQkpPE2v/view" target="_blank">Designthon - Design thinking hackathon</a>
+### 🎯 Educação, licenças e certificados
+- Bacharelado em Ciência da Computação - _Universidade Federal de Alagoas (2016 - 2021)._
 - <a href="https://drive.google.com/file/d/1g8kWw3Kp2zVBz74md7KD4B5T6dorvdZK/view" target="_blank">UX/UI Basic Experiences</a>
 - <a href="https://drive.google.com/file/d/1o_XfjGi8g0BtGR4FpA06Au1jUc0pNOXo/view" target="_blank">The Web Developer Bootcamp (Udemy)</a>
 - <a href="https://www.udemy.com/certificate/UC-f642001e-29ca-458a-b684-aa4bbb033080/" target="_blank">FrontEnd Developer bootcamp (IGTI)</a>
