@@ -6,7 +6,7 @@
 
 ### Olá, bem-vindo 👋
 * ⚡ UX Designer.
-* 🌱 Atualmente estudando React e AWS Serverless.
+* 🌱 Atualmente estudando React.
 * 📫 Contato no email: <guilhermeolivaaz@gmail.com>.
 
  ----------------
