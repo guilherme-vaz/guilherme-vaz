@@ -6,7 +6,7 @@
 
 ### Olá, bem-vindo 👋
 * ⚡ UX Designer.
-* 🌱 Atualmente estudando React.
+* 🌱 Atualmente estudando Vue.js.
 * 📫 Contato no email: <guilhermeolivaaz@gmail.com>.
 
  ----------------
