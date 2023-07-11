@@ -5,8 +5,7 @@
 </center>-->
 
 ### Olá, bem-vindo 👋
-* ⚡ UX Designer.
-* 🌱 Atualmente estudando Vue.js.
+* 🌱 Atualmente estudando React.js com Vite.js e React Native.
 * 📫 Contato no email: <guilhermeolivaaz@gmail.com>.
 
  ----------------
