@@ -5,7 +5,7 @@
 </center>-->
 
 ### Olá, bem-vindo 👋
-* 🌱 Atualmente estudando React.js com Vite.js e React Native.
+* 🌱 Atualmente estudando React.js com Vite.js e Vue.
 * 📫 Contato no email: <guilhermeolivaaz@gmail.com>.
 
  ----------------
