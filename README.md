@@ -18,6 +18,15 @@
 
 ###   
   ----------------
+
+### 👨‍💻 Projetos relevantes
+
+- <a href="https://www.saudedarua.org/" target="_blank">Saúde da Rua</a>
+- <a href="https://vybe.vercel.app/" target="_blank">Vybe Studio Ltda</a>
+- <a href="https://github.com/guilherme-vaz/classificador-tcc" target="_blank">Analizador de sentimentos</a>
+
+###   
+  ----------------
 <div style="display: inline_block">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
