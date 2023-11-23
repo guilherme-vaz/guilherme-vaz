@@ -5,7 +5,7 @@
 </center>-->
 
 ### Olá, bem-vindo 👋
-* 🌱 Atualmente estudando React.js e C#.
+* 🌱 Atualmente estudando React.js.
 * 📫 Contato no email: <guilhermeolivaaz@gmail.com>.
 
  ----------------
