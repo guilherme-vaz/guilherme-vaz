@@ -5,7 +5,7 @@
 </center>-->
 
 ### Olá, bem-vindo 👋
-* 🌱 Atualmente estudando React.js.
+* 🌱 Atualmente estudando React.js e Python.
 * 📫 Contato no email: <guilhermeolivaaz@gmail.com>.
 
  ----------------
