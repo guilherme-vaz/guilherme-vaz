@@ -5,14 +5,13 @@
 </center>-->
 
 ### Olá, bem-vindo 👋
-* 🌱 Atualmente estudando React.js e Python.
+* 🌱 Atualmente estudando Machine Learning.
 * 📫 Contato no email: <guilhermeolivaaz@gmail.com>.
 
  ----------------
 
 ### 🎯 Educação, licenças e certificados
 - Bacharelado em Ciência da Computação - _Universidade Federal de Alagoas (2016 - 2021)._
-- <a href="https://drive.google.com/file/d/1g8kWw3Kp2zVBz74md7KD4B5T6dorvdZK/view" target="_blank">UX/UI Basic Experiences</a>
 - <a href="https://drive.google.com/file/d/1o_XfjGi8g0BtGR4FpA06Au1jUc0pNOXo/view" target="_blank">The Web Developer Bootcamp (Udemy)</a>
 - <a href="https://www.udemy.com/certificate/UC-f642001e-29ca-458a-b684-aa4bbb033080/" target="_blank">FrontEnd Developer bootcamp (IGTI)</a>
 
@@ -22,7 +21,6 @@
 ### 👨‍💻 Projetos relevantes
 
 - <a href="https://www.saudedarua.org/" target="_blank">Saúde da Rua</a>
-- <a href="https://vybe.vercel.app/" target="_blank">Vybe Studio Ltda</a>
 - <a href="https://github.com/guilherme-vaz/classificador-tcc" target="_blank">Analizador de sentimentos</a>
 
 ###   
