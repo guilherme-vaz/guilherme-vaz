@@ -14,6 +14,7 @@
 - Bacharelado em Ciência da Computação - _Universidade Federal de Alagoas (2016 - 2021)._
 - <a href="https://drive.google.com/file/d/1o_XfjGi8g0BtGR4FpA06Au1jUc0pNOXo/view" target="_blank">The Web Developer Bootcamp (Udemy)</a>
 - <a href="https://www.udemy.com/certificate/UC-f642001e-29ca-458a-b684-aa4bbb033080/" target="_blank">FrontEnd Developer bootcamp (IGTI)</a>
+- DataCamp (2025)
 
 ###   
   ----------------
