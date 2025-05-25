@@ -22,7 +22,7 @@
 ### 👨‍💻 Projetos relevantes
 
 - <a href="https://www.saudedarua.org/" target="_blank">Saúde da Rua</a>
-- <a href="https://github.com/guilherme-vaz/classificador-tcc" target="_blank">Analizador de sentimentos</a>
+- <a href="https://github.com/guilherme-vaz/classificador-tcc" target="_blank">Analisador de sentimentos</a>
 
 ###   
   ----------------
