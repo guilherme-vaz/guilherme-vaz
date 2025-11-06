@@ -5,7 +5,6 @@
 </center>-->
 
 ### Olá, bem-vindo 👋
-* 🌱 Atualmente estudando Machine Learning.
 * 📫 Contato no email: <guilhermeolivaaz@gmail.com>.
 
  ----------------
